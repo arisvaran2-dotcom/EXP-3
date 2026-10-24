@@ -39,12 +39,21 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+Direct connection:XNOR
 
+CIRCUIT DIAGRAM: 
+<img width="1591" height="763" alt="Screenshot 2026-10-22 105959" src="https://github.com/user-attachments/assets/595a944b-a575-4160-a5b3-0e747e07a3e9" />
+<img width="1455" height="717" alt="Screenshot 2026-10-22 110040" src="https://github.com/user-attachments/assets/7a7d88f8-4bdf-4624-bc22-0f7620c3e718" />
+Tabulation:1
+<img width="1280" height="1239" alt="BEEE EX 3 XNOR" src="https://github.com/user-attachments/assets/3d503070-d2f9-4e64-bf33-0fb60e433006" />
+	
+Cross connection:XOR
+
+CIRCUIT DIAGRAM:
+<img width="1562" height="752" alt="Screenshot 2026-10-22 110530" src="https://github.com/user-attachments/assets/340fd07d-4e7a-40cc-a319-5c909254f357" />
+<img width="1392" height="723" alt="Screenshot 2026-10-22 110812" src="https://github.com/user-attachments/assets/2c097d49-118e-43b5-a28b-79eedd06eb7e" />
 Tabulation:2
+<img width="1280" height="1019" alt="BEEE EX 3 XOR" src="https://github.com/user-attachments/assets/e2c16df2-29b3-480c-bb0d-3b60f403bee9" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
